@@ -7,7 +7,7 @@
 | Project | Language | Status |
 | ------- | -------- | ------ |
 | [30 days of code](https://github.com/Fernandaraujo/30days) | SQL | In progress |
-
+| [Books]([https://github.com/Fernandaraujo/30days](https://github.com/Fernandaraujo/Books)) | - | In progress |
 
  # Tutorials 
 
