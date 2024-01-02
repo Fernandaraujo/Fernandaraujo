@@ -11,7 +11,7 @@
 
 | Project | Language | Status |
 | ------- | -------- | ------ |
-| [100 days of algorithms](https://github.com/Fernandaraujo/30days) | SQL | In progress |
+| [100 days of algorithms](https://github.com/Fernandaraujo/30days) | - | In progress |
 
 
 
